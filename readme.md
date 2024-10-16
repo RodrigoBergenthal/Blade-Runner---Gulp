@@ -27,7 +27,10 @@ Este é um projeto de uma página web inspirada na temática cyberpunk. Utilizam
 
 Aqui está uma imagem de captura do que o projeto busca alcançar:
 
-![Captura do Projeto](assets/images/captura-de-pagina.png)
+![Captura do Projeto](./src/images/PROJETO.jpg)
+![Captura do Projeto](./src/images/PROJETO2.jpg)
+![Captura do Projeto](./src/images/PROJETO3.jpg)
+![Captura do Projeto](./src/images/PROJETO4.jpg)
 
 **Como Funciona**
 ------------------
