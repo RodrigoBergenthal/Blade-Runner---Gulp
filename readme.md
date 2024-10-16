@@ -1,4 +1,4 @@
-publicado em :[https://github.com/RodrigoBergenthal/Blade-Runner---Gulp](https://blade-runner-gulp-five.vercel.app/?vercelToolbarCode=TTmhaBgrl1eObiQ)
+[Projeto publicado na VERCEL](https://blade-runner-gulp-five.vercel.app/?vercelToolbarCode=TTmhaBgrl1eObiQ)
 
 **PROJETO BLADE RUNNER - EBAC**
 ==========================
