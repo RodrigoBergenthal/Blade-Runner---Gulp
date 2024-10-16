@@ -1,6 +1,8 @@
 
 
 **tarefa 4 - EBAC**
+![BLADE RUNNER](./src/images/Blade-Runner%20banner.jpg)
+
 ==========================
 
 **Sobre o Projeto BLADE RUNNER**
@@ -17,7 +19,7 @@ Este é um projeto de uma página web inspirada na temática cyberpunk. Utilizam
 
 **Estrutura do Projeto**
 -------------------------
-
+![ESTRUTURA](./src/images/ESTRUTURA.jpg)
 
 
 **Imagem de Captura**
